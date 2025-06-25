@@ -140,13 +140,13 @@ document.addEventListener('DOMContentLoaded', function() {
             </div>
           </div>
           <div class="card-inside">
-            <h3 class="inside-title">Happy Birthday, My Love!</h3>
+            <h3 class="inside-title">❤️❤️❤️❤️❤️</h3>
             <p class="inside-text">
               On your special day, I hope you're surrounded by all the joy and laughter you bring to the world. 
-              You make every moment brighter just by being you. Thank you for everything.
+              You make every moment brighter just by being you. Thank you for everything. you are the bestt 🥰
             </p>
             <p class="inside-text">Wishing you a day as beautiful as you are. ❤️</p>
-            <div class="inside-signature">- [Your Name]</div>
+            <div class="inside-signature">- Rocky</div>
           </div>
         </div>
       </div>
