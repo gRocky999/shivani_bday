@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
     partyDiv.className = 'scene';
     partyDiv.style.position = 'relative';
     partyDiv.innerHTML = `
-      <div class="party-message">Happy Birthday, Shivani! 🎉</div>
+      <div class="party-message">Happy Birthday babyy🥰🥳</div>
       <div class="static-balloons-container">
         <img class="static-balloon sb1" src="b1.png" alt="Balloon" />
         <img class="static-balloon sb2" src="b2.png" alt="Balloon" />
